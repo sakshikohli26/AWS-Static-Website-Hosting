@@ -1,0 +1,36 @@
+CODTECH-AWS-Static-Website-Hosting/
+│
+├── index.html                      # MAIN FILE - open this in browser
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css               # Complete website CSS
+│   │
+│   ├── js/
+│   │   └── script.js               # Mobile menu + footer year
+│   │
+│   └── images/
+│       └── README.txt              # Add project images here if needed
+│
+├── documentation/
+│   ├── PROJECT_DOCUMENTATION.md    # Complete written documentation
+│   └── VIVA_QUESTIONS.md           # Viva questions and answers
+│
+├── screenshots/
+│   └── SCREENSHOT_GUIDE.txt        # Exact screenshots required
+│
+├── README.md                       # GitHub repository README
+└── STRUCTURE.txt                   # This folder structure file
+
+
+IMPORTANT CSS LINK USED IN index.html:
+<link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+
+IMPORTANT JAVASCRIPT LINK USED IN index.html:
+<script src="./assets/js/script.js"></script>
+
+To test:
+1. Extract the ZIP file completely.
+2. Do NOT open index.html from inside the ZIP preview.
+3. Open the extracted folder.
+4. Double-click index.html.

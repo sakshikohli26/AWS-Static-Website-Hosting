@@ -1,0 +1,19 @@
+REQUIRED SCREENSHOTS
+
+01-local-website.png
+- Final website running in your browser.
+
+02-s3-bucket-created.png
+- Created S3 bucket.
+
+03-project-files-uploaded.png
+- Show index.html and the assets folder uploaded.
+
+04-static-website-hosting.png
+- Show static website hosting enabled.
+
+05-live-website.png
+- Show the final website opened from the S3 website endpoint.
+
+IMPORTANT:
+Hide or crop account IDs, billing information, access keys, secret keys and other sensitive information.
