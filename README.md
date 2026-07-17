@@ -3,7 +3,7 @@
 ## Internship Details
 
 - **Intern ID:** CITS5437
-- **Full Name:** Sakshi
+- **Full Name:** Sakshi Kohli
 - **Domain:** Cloud Computing
 - **Organization:** CODTECH
 - **Duration:** 4 Weeks
@@ -234,7 +234,7 @@ Only project source code, documentation, and deployment screenshots are included
 
 ## Author
 
-**Sakshi**
+**Sakshi Kohli**
 
 Cloud Computing Intern  
 **CODTECH**
